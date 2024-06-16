@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am Matin Mighani,<br>a 19-year-old Android programmer<br>who loves technology and also seeks to learn interesting and cool things in the field of Android programming.
+👋 Hello! I'm Matin Miqani, also known as "sanjab" in the digital world. I'm an enthusiastic Android developer with a passion for creating innovative and user-friendly applications. Currently, I'm pursuing my education in Computer Science, which not only feeds my technical appetite but also allows me to stay updated with the latest industry trends.
+
+🎓 As a Computer Science student, I'm constantly exploring new technologies and frameworks that can help me build better and more efficient apps. My journey in Android development has taught me the importance of clean code, user experience, and continuous learning.
+
+🤹‍♂️ When I'm not coding or studying, I enjoy various outdoor activities and spending time with friends and family. I believe that a well-rounded lifestyle is key to maintaining a creative and productive mindset.
+
+📫 Feel free to reach out to me if you have any project ideas, collaboration opportunities, or just want to chat about tech and Android development. You can connect with me on LinkedIn or drop me an email at elliotmigh@gmail.com.
 
 
 ## 🌐 Socials:
